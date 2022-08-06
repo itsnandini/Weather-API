@@ -9,5 +9,7 @@ This is a geolocation-based weather app that will show us the current weather da
 
 ### The HTML of the app is straightforward.
 You can see the image below of the final output to get an idea about our markup style.
+
 ![weatherapi](https://user-images.githubusercontent.com/104410750/183242303-b798d626-c338-4ad5-be34-6a794606ec9f.JPG)
+
 We have an image that will change according to the weather. The location will be based on the user's geolocation. Below it is the summary of the weather, the temperature is in both Celcius and Fahrenheit. And in the end, we are showing the sunrise and sunset time.
