@@ -1,4 +1,4 @@
-const api = 'f73092e7ec8e9c46c3b45baa9537****';
+const api = 'f73092e7ec8e9c46c3b45baa9537e670';
 
 const iconImg = document.getElementById('weather-icon');
 const loc = document.querySelector('#location');
