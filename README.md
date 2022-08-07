@@ -1,5 +1,6 @@
 # Weather-API
 This is a geolocation-based weather app that will show us the current weather data depending on the user's location.
+You can try the demo here - https://itsnandini.github.io/Weather-API/
 
 ### By building this app, I learned some stuff like:
 - Interacting with the DOM
